@@ -1,3 +1,10 @@
-import os, platform, time, sys
+import os,platform
 os.system('git pull')
-import GREEN
+os.system("clear")
+print('\033[92;1m Follow My Facebook'💚)
+os.system('xdg-open https://m.me/ARIFIN.RAJ00')
+fbd=platform.architecture()[0]
+if fbd=="32bit":
+    __import__("ALFE-GREEN")
+elif fbd=="64bit":
+    __import__("ALFE-GREEN")
