@@ -1,1 +1,1 @@
-import FIRE1
+import FIRE
